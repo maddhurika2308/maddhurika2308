@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Maddhu 👋
 
-<!--
-**maddhurika2308/maddhurika2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Programmer | 🤖 AI & Data Science Enthusiast
 
-Here are some ideas to get you started:
+I build practical projects in Machine Learning, Computer Vision, and Data Science.  
+Focused on writing clean code, solving real problems, and learning by building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- Python
+- Machine Learning
+- Data Science
+- Computer Vision
+- Flask
+- Git & GitHub
+- SQL
+- NumPy, Pandas, Matplotlib, Scikit-learn
+
+---
+
+## 🧠 Currently Learning
+
+- Deep Learning
+- Face Recognition Systems
+- Model Deployment with Flask
+- Data Structures & Algorithms
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| Smart Attendance System | Face recognition based attendance using ML | Python, OpenCV, ML |
+| ML Model Deployment | Deploying ML model using Flask | Flask, Sklearn |
+| Data Analysis Projects | Real-world dataset analysis | Pandas, Matplotlib |
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/maddhurikab?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: maddhurika2308@gmail.com
+
+---
+
+## ⚡ Motto
+
+> Learn. Build. Break. Fix. Repeat.
